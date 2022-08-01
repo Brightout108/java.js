@@ -21,11 +21,11 @@
 // 
 
 
-var salary =750000;
+var salary =31000;
 var isgraduated = false;
 var car = 1 ;
 
-if (isgraduated === true || salary > 50000 || car > 1){
+if (isgraduated === true || salary > 50000 || car >= 1){
     console.log( "prem kore")
 }
 else{
